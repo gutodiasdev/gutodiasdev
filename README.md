@@ -16,8 +16,11 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=gutodiasdev&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
+<!--
 [![wakatime](https://wakatime.com/badge/user/998f4a9c-0e71-4fbd-afbd-50b16dd2dfa6.svg)](https://wakatime.com/@998f4a9c-0e71-4fbd-afbd-50b16dd2dfa6)
+-->
+
+[![wakatime](https://wakatime.com/badge/user/998f4a9c-0e71-4fbd-afbd-50b16dd2dfa6/project/d0d9abbd-2aab-4ca5-9b95-100f8a603633.svg)](https://wakatime.com/badge/user/998f4a9c-0e71-4fbd-afbd-50b16dd2dfa6/project/d0d9abbd-2aab-4ca5-9b95-100f8a603633)
 
 <!-- Intro  -->
 <h3 align="center">
