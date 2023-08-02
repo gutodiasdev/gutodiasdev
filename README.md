@@ -16,10 +16,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=gutodiasdev&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<!--
-[![wakatime](https://wakatime.com/badge/user/998f4a9c-0e71-4fbd-afbd-50b16dd2dfa6.svg)](https://wakatime.com/@998f4a9c-0e71-4fbd-afbd-50b16dd2dfa6)
--->
-
 [![wakatime](https://wakatime.com/badge/user/998f4a9c-0e71-4fbd-afbd-50b16dd2dfa6.svg)](https://wakatime.com/@998f4a9c-0e71-4fbd-afbd-50b16dd2dfa6)
 
 <!-- Intro  -->
